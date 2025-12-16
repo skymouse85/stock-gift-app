@@ -1,1 +1,1 @@
-# stck-gift-app
+# stock-gift-app
